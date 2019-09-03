@@ -1,1 +1,3 @@
-"module github.com/SergeiTseloguz/testmod/V2" 
+module github.com/SergeiTseloguz/testmod
+
+go 1.12
