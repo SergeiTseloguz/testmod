@@ -1,3 +1,3 @@
-module github.com/SergeiTseloguz/testmod/V2
+module github.com/SergeiTseloguz/testmod/v2
 
 go 1.12
